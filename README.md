@@ -4,7 +4,9 @@
 
 - [Google Cybersecurity Projects](https://onedrive.live.com/?id=7E1C3247837EA455%21s2bca39e89ea841d0bec5564f5c72f46a&cid=7E1C3247837EA455)
 
+<h2>Resume</h2>
 
+- [2025 Resume](https://docs.google.com/document/d/1GjkGQV5sf32ptrrkQ_IXPqHiQRbNcgG_Eaxouo515Zk/edit?usp=sharing)
   
 <h2>Certifications</h2>
 
