@@ -3,12 +3,17 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab]
+  
 <h2>Certifications</h2>
 
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/bbd55bea6f0467e9645b4ea90cce2d03)
 
+<h2>Education</h2>
+
+-  B.S. Cybersecurity and Information Assurance - Western Governors University 
+
+- Cybersecurity for Critical Urban Infrastructure - MITx
 
 
 <h2> 🤳 Connect with me:</h2>
