@@ -15,9 +15,9 @@
 
 <h2>Education</h2>
 
--  B.S. Cybersecurity and Information Assurance - Western Governors University 
+-  Undergraduate B.S. Cybersecurity and Information Assurance - Western Governors University 
 
-- Cybersecurity for Critical Urban Infrastructure - MITx
+
 
 
 <h2> 🤳 Connect with me:</h2>
